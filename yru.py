@@ -1,6 +1,6 @@
 import sys
 from math import sin,cos
 if __name__=='__main__':
- x=39
- r=7*sin(x)
- print(r*cos(5.4))
+ x=46
+ r=8*sin(x)
+ print(r*cos(9.2))
