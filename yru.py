@@ -1,5 +1,5 @@
 import sys,math
 if __name__=='__main__':
-  x=49
+  x=89
   r=6*math.sin(x)
-  print(r*(math.cos(4.5)))
+  print(r*(math.cos(8.7)))
